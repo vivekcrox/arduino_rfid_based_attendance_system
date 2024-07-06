@@ -42,4 +42,4 @@ message on the LCD (if available) and illuminate a red LED (if available) for no
 ## 👩🏻‍💻 Software Requirement
 
 - Arduino IDE
-- C language
+- C++ language
